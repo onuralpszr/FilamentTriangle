@@ -27,6 +27,9 @@
 
 3. Sync Gradle and run the application on your Android Device!
 
+4. Re-compile your mat file with `matc` tool from [filament](https://github.com/google/filament) in case of update your filament version.
+
+
 ## Keywords
 
 Kotlin, Filament, Android, Android Studio
