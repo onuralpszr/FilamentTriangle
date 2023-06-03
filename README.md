@@ -8,7 +8,9 @@
     <a href="https://gradle.org/releases/"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.1.1-02303A?logo=Gradle&logoColor=white"></a>
     <a href="https://conventionalcommits.org"><img alt="Conventional Commits" src="https://img.shields.io/badge/Conventional%20Commit-1.0.0-FE5196?logo=conventionalcommits&logoColor=white"></a>
     <a href="https://developer.android.com/studio"><img alt="android-studio" src="https://img.shields.io/badge/android studio-Hedgehog-3DDC84?logo=androidstudio&logoColor=white"></a>
+    <a href="https://github.com/onuralpszr/FilamentTriangle/actions/workflows/android-ci.yml"><img alt="android-ci" src="https://github.com/onuralpszr/FilamentTriangle/actions/workflows/android-ci.yml/badge.svg"></a>
 </p>
+
 
  <p align="center">
     <img src="previews/preview1.png" width="200" max-height="%20"/>
